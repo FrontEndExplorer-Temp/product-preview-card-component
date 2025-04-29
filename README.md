@@ -34,7 +34,7 @@ Mobile View
 ### Live Links
 
 - [Solution on GitHub](https://github.com/FrontEndExplorer-Temp/product-preview-card-component)
-- [Live Site](#)
+- [Live Site](https://frontendexplorer-temp.github.io/product-preview-card-component/)
 
 ## Development Process
 
