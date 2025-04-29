@@ -33,7 +33,7 @@ Mobile View
 
 ### Live Links
 
-- [Solution on Frontend Mentor](#)
+- [Solution on Frontend Mentor](https://github.com/FrontEndExplorer-Temp/product-preview-card-component)
 - [Live Site](#)
 
 ## Development Process
